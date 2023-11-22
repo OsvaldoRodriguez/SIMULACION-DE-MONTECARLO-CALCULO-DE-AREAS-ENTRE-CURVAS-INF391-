@@ -30,4 +30,14 @@ Solución en geogebra de la simulación
 ![](https://github.com/OsvaldoRodriguez/SIMULACION-DE-MONTECARLO-CALCULO-DE-AREAS-ENTRE-CURVAS-INF391-/blob/main/geo2.PNG)
 
 # 3. Python
-[Solución](https://github.com/OsvaldoRodriguez/SIMULACION-DE-MONTECARLO-CALCULO-DE-AREAS-ENTRE-CURVAS-INF391-/blob/main/Calculo%20de%20areas.py)
+
+### 3.1 Solución
+Solución en python de la simulación
+
+[Link](https://github.com/OsvaldoRodriguez/SIMULACION-DE-MONTECARLO-CALCULO-DE-AREAS-ENTRE-CURVAS-INF391-/blob/main/Calculo%20de%20areas.py)
+
+### 3.2 Resultados
+
+![](https://github.com/OsvaldoRodriguez/SIMULACION-DE-MONTECARLO-CALCULO-DE-AREAS-ENTRE-CURVAS-INF391-/blob/main/python1.PNG)
+
+![](https://github.com/OsvaldoRodriguez/SIMULACION-DE-MONTECARLO-CALCULO-DE-AREAS-ENTRE-CURVAS-INF391-/blob/main/python2.PNG)
