@@ -1,7 +1,7 @@
 # Simulación de Montecarlo para el calculo de areas entre curvas
 
 Simular el area aproximada de las siguientes curvas
-[](https://github.com/OsvaldoRodriguez/SIMULACION-DE-MONTECARLO-CALCULO-DE-AREAS-ENTRE-CURVAS-INF391-/blob/main/funciones.PNG)
+![](https://github.com/OsvaldoRodriguez/SIMULACION-DE-MONTECARLO-CALCULO-DE-AREAS-ENTRE-CURVAS-INF391-/blob/main/funciones.PNG)
 
 # 1. Excel
 
