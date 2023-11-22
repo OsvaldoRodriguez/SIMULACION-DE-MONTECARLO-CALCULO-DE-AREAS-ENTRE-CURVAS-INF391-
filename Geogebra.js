@@ -1,3 +1,12 @@
+
+// para haller solucion con integrales
+l1=Soluciones(g=h)
+Interseca(h,f)
+Interseca(h,g)
+a=IntegralEntre(h,f,x(A),x(F))
+b=IntegralEntre(g,f,x(F),x(D))
+totalArea=a+b
+
 // definiendo las funciones que intervienen
 f(x) = 3*(x-((1)/(2)))^(2)+((1)/(5))
 g(x) = -3 (x-((1)/(2)))^(2)+((1)/(2))
