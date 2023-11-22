@@ -21,7 +21,6 @@ Solución en excel de la simulación
 Solución en geogebra de la simulación
 
 [Link](https://github.com/OsvaldoRodriguez/SIMULACION-DE-MONTECARLO-CALCULO-DE-AREAS-ENTRE-CURVAS-INF391-/blob/main/Geogebra.js)
-[Enlace Google Collabs](https://colab.research.google.com/drive/1bxcNPuTAC73XIq3pQNie8A8IsE00oSVq?usp=sharing)
 
 ### 2.2 Resultados
 
@@ -36,6 +35,10 @@ Solución en geogebra de la simulación
 Solución en python de la simulación
 
 [Link](https://github.com/OsvaldoRodriguez/SIMULACION-DE-MONTECARLO-CALCULO-DE-AREAS-ENTRE-CURVAS-INF391-/blob/main/Calculo%20de%20areas.py)
+
+
+[Enlace Google Collabs](https://colab.research.google.com/drive/1bxcNPuTAC73XIq3pQNie8A8IsE00oSVq?usp=sharing)
+
 
 ### 3.2 Resultados
 
